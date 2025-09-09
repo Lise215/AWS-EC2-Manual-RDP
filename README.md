@@ -1,5 +1,5 @@
 <!--# AWS-EC2-Setup1-->
-#  Manual AWS EC2 Instance Configuration + RDP Connection
+#  AWS EC2 Instance Configuration + RDP Connection
 Tutorial of manual AWS EC2 Windows Server Setup on MacOS. Terraform tutorial coming soon.
 
 <h2>Tools Used:</h2>
