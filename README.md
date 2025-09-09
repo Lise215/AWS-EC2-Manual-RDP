@@ -48,7 +48,9 @@ Tutorial of manual AWS EC2 Windows Server Setup on MacOS. Terraform tutorial com
 <h2>Connecting Steps (RDP):</h2>
 <ol>
     <li> Select your instance</li>
-    <li> Click Actions > Security > Get Windows Password</li>
+    <li> Click Connect
+    <li> Click the "RDP client" tab </li> 
+    <li>Click Get Password </li>
     <li> Upload your `.pem` key file</li>
     <li> Decrypt password and copy it</li>
     <li> Open Remote Desktop client </li>
